@@ -53,7 +53,7 @@ Comprehensive role-based application managing 500+ employees across multiple dep
 ### 🛒 [E-Commerce Decoration Store](https://github.com/d0aa29/MVC_Store)
 Full-featured online store with 1000+ products, Stripe payment integration, Facebook login, real-time inventory management, and modular UI using Custom Tag Helpers and View Components. **Tech:** ASP.NET Core MVC, Entity Framework, Razor
 
-### 🏥 [Radiology Center Management System]([https://github.com/d0aa29/radiology-center](https://github.com/mrXrobot26/Radiology-Center-v3))
+### 🏥 [Radiology Center Management System](https://github.com/d0aa29/radiology-center](https://github.com/mrXrobot26/Radiology-Center-v3))
 Secure healthcare management system serving 200+ professionals across 5 branches with patient records, appointment scheduling, and financial tracking modules. **Tech:** .NET Framework, Windows Forms, SQL Server, LINQ
 
 ---
