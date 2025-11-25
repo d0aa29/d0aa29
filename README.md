@@ -1,6 +1,6 @@
 # Hi, I'm Doaa Zakaria 👋
 
-### Backend Developer | .NET & Node.js Enthusiast
+### Backend Developer | .NET & Node.js 
 
 🎓 Computer Science Graduate from Kafr El-Sheikh University  
 💼 Backend Development Intern @ ITI  
