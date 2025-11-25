@@ -58,12 +58,3 @@ Secure healthcare management system serving 200+ professionals across 5 branches
 
 ---
 
-
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/doaa-zakaria-a7857a240)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:doaazakaria29@gmail.com)
-
----
-
