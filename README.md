@@ -58,13 +58,7 @@ Secure healthcare management system serving 200+ professionals across 5 branches
 
 ---
 
-## 📊 GitHub Stats
 
-![Doaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d0aa29&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d0aa29&layout=compact&theme=radical)
-
----
 
 ## 🌐 Connect With Me
 
@@ -73,6 +67,3 @@ Secure healthcare management system serving 200+ professionals across 5 branches
 
 ---
 
-**💡 "Building tomorrow's solutions, one line of code at a time."**
-
-⭐ Feel free to explore my repositories and reach out for collaboration!
